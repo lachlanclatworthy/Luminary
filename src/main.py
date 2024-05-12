@@ -1,4 +1,4 @@
-# main.py
+#!python
 
 def main():
     print("Luminary")
